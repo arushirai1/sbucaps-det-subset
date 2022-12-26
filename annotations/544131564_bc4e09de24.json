@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bottle",
+      "points": [
+        [
+          467.244019138756,
+          126.92822966507177
+        ],
+        [
+          498.3444976076555,
+          160.42105263157893
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/544131564_bc4e09de24.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 512
+}

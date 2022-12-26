@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "train",
+      "points": [
+        [
+          1.528662420382176,
+          159.82165605095543
+        ],
+        [
+          339.0,
+          447.906944228678
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/6241910_a9d196be23.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 340
+}

@@ -1,0 +1,90 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "points": [
+        [
+          101.21531100478467,
+          99.17703349282296
+        ],
+        [
+          172.0287081339713,
+          201.0909090909091
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "dog",
+      "points": [
+        [
+          107.43540669856458,
+          195.3492822966507
+        ],
+        [
+          217.00478468899522,
+          336.01913875598086
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "dog",
+      "points": [
+        [
+          156.23923444976074,
+          205.39712918660285
+        ],
+        [
+          333.75119617224885,
+          382.90909090909093
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "dog",
+      "points": [
+        [
+          207.91387559808612,
+          136.01913875598083
+        ],
+        [
+          296.4306220095694,
+          222.14354066985646
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          319.87559808612446,
+          1.090909090909078
+        ],
+        [
+          511.0,
+          102.49432037528807
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/211998310_f5433a4c7d.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 512
+}

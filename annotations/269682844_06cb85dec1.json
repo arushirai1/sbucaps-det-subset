@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          256.6726457399103,
+          3.2354260089685987
+        ],
+        [
+          483.13004484304935,
+          231.03811659192826
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/269682844_06cb85dec1.jpg",
+  "imageData": null,
+  "imageHeight": 341,
+  "imageWidth": 512
+}

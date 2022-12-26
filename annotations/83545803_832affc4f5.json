@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "points": [
+        [
+          75.75796178343947,
+          268.7388535031847
+        ],
+        [
+          269.3885350318471,
+          438.80254777070064
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/83545803_832affc4f5.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 384
+}

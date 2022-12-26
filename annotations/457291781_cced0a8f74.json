@@ -1,0 +1,42 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          71.95541401273888,
+          131.15923566878982
+        ],
+        [
+          303.8025477707006,
+          492.30573248407643
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          175.77707006369425,
+          107.59235668789809
+        ],
+        [
+          341.0,
+          431.77977224474046
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/457291781_cced0a8f74.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 342
+}

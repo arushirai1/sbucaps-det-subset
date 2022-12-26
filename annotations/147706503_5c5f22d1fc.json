@@ -1,0 +1,106 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          340.0807174887892,
+          252.61434977578477
+        ],
+        [
+          414.07174887892376,
+          282.6591928251121
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          452.1883408071749,
+          244.09417040358744
+        ],
+        [
+          470.1255605381166,
+          258.4439461883408
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          25.28251121076233,
+          258.4439461883408
+        ],
+        [
+          87.16591928251121,
+          277.72645739910314
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          77.74887892376681,
+          255.75336322869953
+        ],
+        [
+          106.89686098654708,
+          270.5515695067264
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          132.90582959641256,
+          250.82062780269058
+        ],
+        [
+          155.77578475336324,
+          263.8251121076233
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          247.70403587443946,
+          252.61434977578477
+        ],
+        [
+          271.0224215246637,
+          263.8251121076233
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/147706503_5c5f22d1fc.jpg",
+  "imageData": null,
+  "imageHeight": 342,
+  "imageWidth": 512
+}

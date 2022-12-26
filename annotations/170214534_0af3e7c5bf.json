@@ -1,0 +1,42 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "points": [
+        [
+          186.71748878923768,
+          83.55605381165918
+        ],
+        [
+          318.75134798360114,
+          340.99999999999994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          57.5695067264574,
+          31.538116591928244
+        ],
+        [
+          317.6591928251121,
+          60.686098654708516
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/170214534_0af3e7c5bf.jpg",
+  "imageData": null,
+  "imageHeight": 342,
+  "imageWidth": 512
+}

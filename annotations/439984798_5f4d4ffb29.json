@@ -1,0 +1,122 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bus",
+      "points": [
+        [
+          213.17703349282294,
+          182.43062200956936
+        ],
+        [
+          283.99043062200957,
+          255.1578947368421
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          333.75119617224885,
+          229.3205741626794
+        ],
+        [
+          370.5933014354067,
+          264.72727272727275
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          57.19617224880381,
+          229.79904306220095
+        ],
+        [
+          113.17703349282294,
+          267.11961722488036
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          101.21531100478467,
+          225.01435406698565
+        ],
+        [
+          136.62200956937798,
+          252.2870813397129
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          126.57416267942583,
+          222.14354066985646
+        ],
+        [
+          146.66985645933013,
+          246.06698564593302
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          141.40669856459328,
+          220.2296650717703
+        ],
+        [
+          163.41626794258372,
+          243.67464114832535
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          202.65071770334927,
+          216.8803827751196
+        ],
+        [
+          212.69856459330143,
+          234.10526315789474
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/439984798_5f4d4ffb29.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 512
+}

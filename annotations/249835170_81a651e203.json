@@ -1,0 +1,90 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bottle",
+      "points": [
+        [
+          426.57416267942585,
+          149.89473684210526
+        ],
+        [
+          451.4545454545455,
+          211.61722488038276
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          370.11483253588517,
+          135.54066985645932
+        ],
+        [
+          406.00000000000006,
+          201.0909090909091
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          472.9856459330144,
+          23.10047846889951
+        ],
+        [
+          511.0,
+          114.25734791524253
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          395.47368421052636,
+          83.38755980861244
+        ],
+        [
+          417.96172248803833,
+          120.22966507177033
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          360.066985645933,
+          90.08612440191388
+        ],
+        [
+          387.3397129186603,
+          124.53588516746412
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/249835170_81a651e203.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 512
+}

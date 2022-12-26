@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "boat",
+      "points": [
+        [
+          465.80861244019144,
+          131.71291866028707
+        ],
+        [
+          510.3062200956938,
+          166.1626794258373
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/62115450_c27a4c5498.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 512
+}

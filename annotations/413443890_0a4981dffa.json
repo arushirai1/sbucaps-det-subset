@@ -1,0 +1,42 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "boat",
+      "points": [
+        [
+          27.524663677130043,
+          255.304932735426
+        ],
+        [
+          288.9596412556054,
+          286.2466367713004
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bus",
+      "points": [
+        [
+          91.65022421524664,
+          227.50224215246635
+        ],
+        [
+          258.4663677130045,
+          273.69058295964123
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/413443890_0a4981dffa.jpg",
+  "imageData": null,
+  "imageHeight": 342,
+  "imageWidth": 512
+}

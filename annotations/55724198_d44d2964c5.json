@@ -1,0 +1,42 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bus",
+      "points": [
+        [
+          295.14027149321265,
+          291.4547511312217
+        ],
+        [
+          436.7692307692308,
+          359.7805429864253
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          265.2760180995475,
+          334.89366515837105
+        ],
+        [
+          296.0452488687783,
+          359.32805429864254
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/55724198_d44d2964c5.jpg",
+  "imageData": null,
+  "imageHeight": 363,
+  "imageWidth": 512
+}

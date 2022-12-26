@@ -1,0 +1,58 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          158.15311004784687,
+          4.440191387559796
+        ],
+        [
+          416.5263157894737,
+          136.01913875598083
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          139.97129186602868,
+          3.0047846889952026
+        ],
+        [
+          174.89952153110048,
+          29.320574162679414
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "dog",
+      "points": [
+        [
+          408.39234449760767,
+          177.64593301435406
+        ],
+        [
+          452.8899521531101,
+          236.01913875598086
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/54738391_c41e9244fd.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 512
+}

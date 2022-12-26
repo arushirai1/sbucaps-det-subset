@@ -1,0 +1,90 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          49.54066985645931,
+          250.85167464114832
+        ],
+        [
+          91.64593301435406,
+          291.52153110047846
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          37.57894736842104,
+          253.244019138756
+        ],
+        [
+          83.03349282296651,
+          295.3492822966507
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          8.392344497607638,
+          262.3349282296651
+        ],
+        [
+          68.67942583732057,
+          303.0047846889952
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          130.40191387559807,
+          233.6267942583732
+        ],
+        [
+          190.21052631578945,
+          265.20574162679424
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          111.26315789473682,
+          246.54545454545453
+        ],
+        [
+          169.63636363636363,
+          271.42583732057415
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/18938233_2fdf5c2f04.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 512
+}

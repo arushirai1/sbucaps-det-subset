@@ -1,0 +1,90 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "boat",
+      "points": [
+        [
+          0.7368421052631398,
+          262.3349282296651
+        ],
+        [
+          273.4641148325359,
+          292.95693779904303
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "boat",
+      "points": [
+        [
+          0.7368421052631398,
+          230.755980861244
+        ],
+        [
+          511.0,
+          259.9425837320574
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "boat",
+      "points": [
+        [
+          2.1722488038277348,
+          201.5693779904306
+        ],
+        [
+          510.99999999999994,
+          220.92182492831844
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "boat",
+      "points": [
+        [
+          478.72727272727275,
+          181.95215311004785
+        ],
+        [
+          0.0,
+          197.20182560066863
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "boat",
+      "points": [
+        [
+          0.25837320574160927,
+          160.89952153110048
+        ],
+        [
+          83.99043062200957,
+          182.43062200956936
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/16342887_a246ea08ab.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 512
+}

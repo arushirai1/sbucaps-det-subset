@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bus",
+      "points": [
+        [
+          1.2153110047846702,
+          1.5693779904306089
+        ],
+        [
+          511.0,
+          374.96639528065845
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/490978778_58d3ad6666.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 512
+}

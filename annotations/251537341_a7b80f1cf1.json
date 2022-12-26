@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "horse",
+      "points": [
+        [
+          150.84304932735427,
+          59.73766816143497
+        ],
+        [
+          346.7157725299013,
+          340.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/251537341_a7b80f1cf1.jpg",
+  "imageData": null,
+  "imageHeight": 341,
+  "imageWidth": 512
+}

@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          2.4125560538116573,
+          9.961883408071737
+        ],
+        [
+          509.1390134529148,
+          336.4192825112108
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../images/archive1/arr159/sbucaps/images/491074145_366964bafb.jpg",
+  "imageData": null,
+  "imageHeight": 341,
+  "imageWidth": 512
+}
